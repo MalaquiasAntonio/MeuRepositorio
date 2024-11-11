@@ -1,5 +1,5 @@
 const readline = require("readline-sync");
-
+console.log("Testando")
 let secreto = ["viagem","Futebol","computador","natureza","musica"];
 let modelos = [
 ['Destino', 'Aeroporto', 'Passagem', 'Bagagem', 'Turismo', 'Hoteis', 'Praia', 'Montanha', 'Cidade', 'Pais', 'Cultura', 'Monumento', 'Aventura', 'Guia', 'Excursao', 'Carro', 'Navio', 'Trem', 'Estacao', 'Roteiro'],
